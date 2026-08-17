@@ -1,2 +1,3 @@
 # first--demo
-this is my first git reposetry.
+this is my first git repository.
+auther-shubham
